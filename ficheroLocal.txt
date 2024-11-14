@@ -1,0 +1,3 @@
+Este es mi primer fichero en GIT LOCAL 
+Y lo voy a subir a mi respositorio GITHUB 
+Esta es la tercera linea 
